@@ -1,2 +1,2 @@
-# solido-provider-thorify
-Solido Thorify Provider
+# cemento-provider-thorify
+Cemento Thorify Provider
